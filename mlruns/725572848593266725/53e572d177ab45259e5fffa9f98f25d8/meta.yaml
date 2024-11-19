@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/725572848593266725/53e572d177ab45259e5fffa9f98f25d8/artifacts
+end_time: 1731986324001
+entry_point_name: ''
+experiment_id: '725572848593266725'
+lifecycle_stage: active
+run_id: 53e572d177ab45259e5fffa9f98f25d8
+run_name: delightful-lynx-486
+run_uuid: 53e572d177ab45259e5fffa9f98f25d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731986316722
+status: 3
+tags: []
+user_id: fdrl

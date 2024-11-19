@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/321076090611373589/8d01a7237bbd4045afc48d1e9632c4b9/artifacts
+end_time: 1731971257302
+entry_point_name: ''
+experiment_id: '321076090611373589'
+lifecycle_stage: active
+run_id: 8d01a7237bbd4045afc48d1e9632c4b9
+run_name: adaptable-slug-52
+run_uuid: 8d01a7237bbd4045afc48d1e9632c4b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731971255404
+status: 3
+tags: []
+user_id: fdrl

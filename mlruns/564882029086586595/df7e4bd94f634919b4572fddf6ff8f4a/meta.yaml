@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/564882029086586595/df7e4bd94f634919b4572fddf6ff8f4a/artifacts
+end_time: 1731981950290
+entry_point_name: ''
+experiment_id: '564882029086586595'
+lifecycle_stage: active
+run_id: df7e4bd94f634919b4572fddf6ff8f4a
+run_name: monumental-doe-699
+run_uuid: df7e4bd94f634919b4572fddf6ff8f4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731981941417
+status: 3
+tags: []
+user_id: fdrl

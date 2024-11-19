@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/725572848593266725/52f03e4b70d7419eb800ba7356f190fc/artifacts
+end_time: 1731982024182
+entry_point_name: ''
+experiment_id: '725572848593266725'
+lifecycle_stage: active
+run_id: 52f03e4b70d7419eb800ba7356f190fc
+run_name: upbeat-panda-571
+run_uuid: 52f03e4b70d7419eb800ba7356f190fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731982012508
+status: 3
+tags: []
+user_id: fdrl

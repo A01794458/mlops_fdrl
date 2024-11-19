@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/367719571489584427/de608f51ecd24912b775b9bc83085f0a/artifacts
+end_time: 1731970885482
+entry_point_name: ''
+experiment_id: '367719571489584427'
+lifecycle_stage: active
+run_id: de608f51ecd24912b775b9bc83085f0a
+run_name: glamorous-ox-997
+run_uuid: de608f51ecd24912b775b9bc83085f0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731970879814
+status: 3
+tags: []
+user_id: fdrl

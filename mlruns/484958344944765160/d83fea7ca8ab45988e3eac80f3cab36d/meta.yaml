@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/484958344944765160/d83fea7ca8ab45988e3eac80f3cab36d/artifacts
+end_time: 1731982159762
+entry_point_name: ''
+experiment_id: '484958344944765160'
+lifecycle_stage: active
+run_id: d83fea7ca8ab45988e3eac80f3cab36d
+run_name: honorable-rook-52
+run_uuid: d83fea7ca8ab45988e3eac80f3cab36d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731982156328
+status: 3
+tags: []
+user_id: fdrl

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/564882029086586595/83e5cd32444c4e66bcd65b78045e98a1/artifacts
+end_time: 1731973012223
+entry_point_name: ''
+experiment_id: '564882029086586595'
+lifecycle_stage: active
+run_id: 83e5cd32444c4e66bcd65b78045e98a1
+run_name: traveling-sponge-506
+run_uuid: 83e5cd32444c4e66bcd65b78045e98a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731973007243
+status: 3
+tags: []
+user_id: fdrl

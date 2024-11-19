@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/367719571489584427/7f554bf10ed140bd915531d1640ce6e4/artifacts
+end_time: 1731972507883
+entry_point_name: ''
+experiment_id: '367719571489584427'
+lifecycle_stage: active
+run_id: 7f554bf10ed140bd915531d1640ce6e4
+run_name: brawny-pig-221
+run_uuid: 7f554bf10ed140bd915531d1640ce6e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731972506582
+status: 4
+tags: []
+user_id: fdrl

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/484958344944765160/27206edbc68746e68e7f3c26dcd2c0f0/artifacts
+end_time: 1731973196947
+entry_point_name: ''
+experiment_id: '484958344944765160'
+lifecycle_stage: active
+run_id: 27206edbc68746e68e7f3c26dcd2c0f0
+run_name: bald-squid-599
+run_uuid: 27206edbc68746e68e7f3c26dcd2c0f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731973194399
+status: 3
+tags: []
+user_id: fdrl

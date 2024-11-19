@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/144667231082735790/0a70fd8ce6164bcbb631e3fd6f1ecad0/artifacts
+end_time: 1731971255362
+entry_point_name: ''
+experiment_id: '144667231082735790'
+lifecycle_stage: active
+run_id: 0a70fd8ce6164bcbb631e3fd6f1ecad0
+run_name: serious-colt-16
+run_uuid: 0a70fd8ce6164bcbb631e3fd6f1ecad0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731971213013
+status: 3
+tags: []
+user_id: fdrl

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/367719571489584427/8647f2471b7d4a4083ab254dbeb40465/artifacts
+end_time: 1731981941397
+entry_point_name: ''
+experiment_id: '367719571489584427'
+lifecycle_stage: active
+run_id: 8647f2471b7d4a4083ab254dbeb40465
+run_name: colorful-bird-118
+run_uuid: 8647f2471b7d4a4083ab254dbeb40465
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731981933612
+status: 3
+tags: []
+user_id: fdrl

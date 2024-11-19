@@ -1,0 +1,26 @@
+base:
+  random_state: 42
+  max_iter: 1000
+  n_estimators: 100
+  max_depth: None
+  n_estimators: 100 
+  max_depth: 3
+  n_neighbors: 5
+
+
+data:
+  raw_data_csv: 'data/raw/Absenteeism_at_work.csv'
+  processed_data_route: '../data/processed/'
+  processed_data_csv: 'Absenteeism_at_work_processed'
+  test_size: 0.2
+  version: 'v1'
+
+train:
+  experiment: '/models/tf/exp'
+  tracking_uri: 'http://127.0.0.1:5000'
+  
+
+
+
+
+reports:

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/367719571489584427/5e1a73fe96d0493898f878bb9b90014c/artifacts
+end_time: 1731972676734
+entry_point_name: ''
+experiment_id: '367719571489584427'
+lifecycle_stage: active
+run_id: 5e1a73fe96d0493898f878bb9b90014c
+run_name: enchanting-ox-695
+run_uuid: 5e1a73fe96d0493898f878bb9b90014c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731972675530
+status: 4
+tags: []
+user_id: fdrl

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/367719571489584427/b976edce80b346338aef2050b35f315f/artifacts
+end_time: 1731973007210
+entry_point_name: ''
+experiment_id: '367719571489584427'
+lifecycle_stage: active
+run_id: b976edce80b346338aef2050b35f315f
+run_name: likeable-wolf-104
+run_uuid: b976edce80b346338aef2050b35f315f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731973002950
+status: 3
+tags: []
+user_id: fdrl

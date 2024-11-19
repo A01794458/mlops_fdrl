@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/830742309867616655/74abacc800c14629bd1c48402a69ae4c/artifacts
+end_time: 1731973194358
+entry_point_name: ''
+experiment_id: '830742309867616655'
+lifecycle_stage: active
+run_id: 74abacc800c14629bd1c48402a69ae4c
+run_name: bemused-fowl-296
+run_uuid: 74abacc800c14629bd1c48402a69ae4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731973070044
+status: 3
+tags: []
+user_id: fdrl

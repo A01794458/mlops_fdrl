@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/935122949501548414/35febd40969d475588c244e89a7808a7/artifacts
+end_time: 1731986316662
+entry_point_name: ''
+experiment_id: '935122949501548414'
+lifecycle_stage: active
+run_id: 35febd40969d475588c244e89a7808a7
+run_name: classy-stork-695
+run_uuid: 35febd40969d475588c244e89a7808a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731986310359
+status: 3
+tags: []
+user_id: fdrl

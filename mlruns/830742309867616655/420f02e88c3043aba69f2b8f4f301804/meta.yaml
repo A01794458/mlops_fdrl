@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/830742309867616655/420f02e88c3043aba69f2b8f4f301804/artifacts
+end_time: 1731971399252
+entry_point_name: ''
+experiment_id: '830742309867616655'
+lifecycle_stage: active
+run_id: 420f02e88c3043aba69f2b8f4f301804
+run_name: ambitious-shad-579
+run_uuid: 420f02e88c3043aba69f2b8f4f301804
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731971271856
+status: 3
+tags: []
+user_id: fdrl

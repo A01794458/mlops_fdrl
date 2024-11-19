@@ -1,0 +1,71 @@
+2.- Prepared the data
+               ID  Reason for absence  Month of absence  Day of the week     Seasons  Transportation expense  ...  Social smoker         Pet      Weight      Height  Body mass index  Absenteeism time in hours
+count  740.000000          740.000000        740.000000       740.000000  740.000000              740.000000  ...     740.000000  740.000000  740.000000  740.000000       740.000000                 740.000000
+mean    18.017568           19.216216          6.324324         3.914865    2.544595              221.329730  ...       0.072973    0.745946   79.035135  172.114865        26.677027                   6.924324
+std     11.021247            8.433406          3.436287         1.421675    1.111831               66.952223  ...       0.260268    1.318258   12.883211    6.034995         4.285452                  13.330998
+min      1.000000            0.000000          0.000000         2.000000    1.000000              118.000000  ...       0.000000    0.000000   56.000000  163.000000        19.000000                   0.000000
+25%      9.000000           13.000000          3.000000         3.000000    2.000000              179.000000  ...       0.000000    0.000000   69.000000  169.000000        24.000000                   2.000000
+50%     18.000000           23.000000          6.000000         4.000000    3.000000              225.000000  ...       0.000000    0.000000   83.000000  170.000000        25.000000                   3.000000
+75%     28.000000           26.000000          9.000000         5.000000    4.000000              260.000000  ...       0.000000    1.000000   89.000000  172.000000        31.000000                   8.000000
+max     36.000000           28.000000         12.000000         6.000000    4.000000              388.000000  ...       1.000000    8.000000  108.000000  196.000000        38.000000                 120.000000
+
+[8 rows x 21 columns]
+Número de filas en el dataset: 740
+Número de columnas en el dataset: 21
+
+Primeras filas del conjunto de datos:
+   ID  Reason for absence  Month of absence  Day of the week  Seasons  Transportation expense  ...  Social smoker  Pet  Weight  Height  Body mass index  Absenteeism time in hours
+0  11                  26                 7                3        1                     289  ...              0    1      90     172               30                          4
+1  36                   0                 7                3        1                     118  ...              0    0      98     178               31                          0
+2   3                  23                 7                4        1                     179  ...              0    0      89     170               31                          2
+3   7                   7                 7                5        1                     279  ...              1    0      68     168               24                          4
+4  11                  23                 7                5        1                     289  ...              0    1      90     172               30                          2
+
+[5 rows x 21 columns]
+
+Revisar valores nulos:
+ID                                 0
+Reason for absence                 0
+Month of absence                   0
+Day of the week                    0
+Seasons                            0
+Transportation expense             0
+Distance from Residence to Work    0
+Service time                       0
+Age                                0
+Work load Average/day              0
+Hit target                         0
+Disciplinary failure               0
+Education                          0
+Son                                0
+Social drinker                     0
+Social smoker                      0
+Pet                                0
+Weight                             0
+Height                             0
+Body mass index                    0
+Absenteeism time in hours          0
+dtype: int64
+Valores nulos después de limpieza:
+ID                                 0
+Reason for absence                 0
+Month of absence                   0
+Day of the week                    0
+Seasons                            0
+Transportation expense             0
+Distance from Residence to Work    0
+Service time                       0
+Age                                0
+Work load Average/day              0
+Hit target                         0
+Disciplinary failure               0
+Education                          0
+Son                                0
+Social drinker                     0
+Social smoker                      0
+Pet                                0
+Weight                             0
+Height                             0
+Body mass index                    0
+Absenteeism time in hours          0
+dtype: int64

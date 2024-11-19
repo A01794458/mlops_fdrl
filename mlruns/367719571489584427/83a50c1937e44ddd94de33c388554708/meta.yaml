@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/367719571489584427/83a50c1937e44ddd94de33c388554708/artifacts
+end_time: 1731986263478
+entry_point_name: ''
+experiment_id: '367719571489584427'
+lifecycle_stage: active
+run_id: 83a50c1937e44ddd94de33c388554708
+run_name: likeable-sow-269
+run_uuid: 83a50c1937e44ddd94de33c388554708
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731986259570
+status: 3
+tags: []
+user_id: fdrl

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/564882029086586595/782d7ed0747c40208c93b8b90c84f74a/artifacts
+end_time: 1731986268393
+entry_point_name: ''
+experiment_id: '564882029086586595'
+lifecycle_stage: active
+run_id: 782d7ed0747c40208c93b8b90c84f74a
+run_name: fun-panda-390
+run_uuid: 782d7ed0747c40208c93b8b90c84f74a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731986263499
+status: 3
+tags: []
+user_id: fdrl

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/830742309867616655/55fa846ff4594a1bbdd02aba462ee875/artifacts
+end_time: 1731982156259
+entry_point_name: ''
+experiment_id: '830742309867616655'
+lifecycle_stage: active
+run_id: 55fa846ff4594a1bbdd02aba462ee875
+run_name: dapper-sloth-784
+run_uuid: 55fa846ff4594a1bbdd02aba462ee875
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731982024253
+status: 3
+tags: []
+user_id: fdrl

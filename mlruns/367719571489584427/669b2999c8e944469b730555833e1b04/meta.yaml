@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/367719571489584427/669b2999c8e944469b730555833e1b04/artifacts
+end_time: 1731971096427
+entry_point_name: ''
+experiment_id: '367719571489584427'
+lifecycle_stage: active
+run_id: 669b2999c8e944469b730555833e1b04
+run_name: trusting-goat-174
+run_uuid: 669b2999c8e944469b730555833e1b04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731971092673
+status: 3
+tags: []
+user_id: fdrl

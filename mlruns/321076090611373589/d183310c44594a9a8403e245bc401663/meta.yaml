@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/321076090611373589/d183310c44594a9a8403e245bc401663/artifacts
+end_time: 1731971143748
+entry_point_name: ''
+experiment_id: '321076090611373589'
+lifecycle_stage: active
+run_id: d183310c44594a9a8403e245bc401663
+run_name: popular-ox-584
+run_uuid: d183310c44594a9a8403e245bc401663
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731971141840
+status: 3
+tags: []
+user_id: fdrl
